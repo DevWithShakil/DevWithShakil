@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is Md Shakil Khan
 =======================================================================================================================================
 
-An MERN Stack Developer
+An Full Stack Developer
 -----------------------
 
-Let me introduce myself a little. I am a developer with experience in working in the software development and services, Skilled in MERN Stack Development.
+Let me introduce myself a little. I am a developer with experience in working in web development and services, Skilled in Full Stack Development.
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Devloper Portfolio](http://shakil-portfolio.vercel.app)
 * ✉️  You can contact me at [mdshakil.khan8032@gmail.com](mailto:mdshakil.khan8032@gmail.com)
-* 🧠  I'm learning Vuejs, Python, Wordpress, kotlin, AWS
+* 🧠  I'm learning Vuejs, Python, WordPress, kotlin, AWS
 
 <a href="https://www.github.com/DevWithShakil" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DevWithShakil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
